@@ -1,2 +1,2 @@
-# MStoreHomePage
+# MStore
 Html &amp; Css
